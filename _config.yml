@@ -12,7 +12,7 @@ site_theme               : "mint" # The available themes options are "default", 
 title                    : "李若诗"
 title_separator          : "-"
 name                     : &name "李若诗"
-description              : &description "这里是包括我的个人简介，个人学习笔记等等"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "电子科学与技术本科生，已保研至上海交通大学集成电路学院，关注数字 IC、处理器验证、AI 模型训练部署与硬件感知优化。"
 url                      : https://Lruos.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,13 +24,13 @@ repository               : "Lruos/Lruos.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "liruoshi"
-  pronouns         :  "she/her"  
-  bio              : "悟已往之不谏，知来者之可追。"
-  location         : "China"
-  employer         : "HIT(wh)->SJTU"
+  name             : "李若诗"
+  pronouns         :  ""
+  bio              : "HIT(WH) 电子科学与技术 / SJTU 集成电路学院准研究生"
+  location         : "中国"
+  employer         : "HIT(WH) -> SJTU"
   url              : #"1670982279"
-  email            : "lakuymitty@gmail.com" 
+  email            : "1670982279@qq.com"
 
   # Academic websites
   academia         : # URL

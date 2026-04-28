@@ -1,64 +1,34 @@
 ---
 layout: archive
-title: "CV"
+title: "简历下载"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+这里按投递岗位整理了不同版本的 PDF 简历。建议根据岗位描述选择最贴近的一版，避免让面试官在不相关内容里寻找重点。
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## 数字 IC / 处理器验证
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+适合 RTL 设计、数字前端、处理器验证、FPGA 原型验证、EDA/芯片验证实习等岗位。
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+[下载：李若诗-个人简历-数字IC.pdf](/files/李若诗-个人简历-数字IC.pdf){: .btn .btn--primary}
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## AI / 大模型应用
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+适合大模型应用开发、RAG、智能体应用、AI Coding 工程、大模型微调与应用落地岗位。
+
+[下载：李若诗-简历-AI.pdf](/files/李若诗-简历-AI.pdf){: .btn .btn--primary}
+
+## 大模型训练与部署
+
+适合模型训练优化、推理服务部署、vLLM/TensorRT-LLM、量化评估、性能分析等岗位。
+
+[下载：李若诗-简历-模型训练部署.pdf](/files/李若诗-简历-模型训练部署.pdf){: .btn .btn--primary}
+
+## 综合版
+
+适合需要同时展示电子信息基础、AI 项目、硬件竞赛和综合能力的岗位。
+
+[下载：李若诗-个人简历.pdf](/files/李若诗-个人简历.pdf){: .btn .btn--primary}
